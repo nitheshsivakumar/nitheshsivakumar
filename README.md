@@ -44,11 +44,6 @@ CI/CD: Integrated with GitHub and AWS Amplify for continuous deployment.
 
 LinkedIn: linkedin.com/in/nithesh
 
-Email: your.email@example.com
-
-GitHub: github.com/nithesh
-
-“Passionate Solutions Architect in training, experienced in cloud technologies and leadership.”
 <!--
 **nitheshsivakumar/nitheshsivakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
