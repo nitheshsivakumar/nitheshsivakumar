@@ -32,8 +32,8 @@ Welcome to my GitHub profile! Below are some of the **Cloud, DevOps, and Generat
 - [**Set Up and Deploy a WordPress Website on AWS**](https://github.com/nitheshsivakumar/deploy-a-wordpress-website-on-aws)  
   *Hosting a WordPress website on AWS with EC2, RDS, and S3 for media storage.*  
 
-- [**Deploy a Static Website on AWS with S3 and CloudFront**](https://github.com/nitheshsivakumar/deploy-a-static-website-on-aws)  
-  *Serving a fast, scalable static website using Amazon S3 and CloudFront for global content delivery.*  
+- [**Deploy a Static Website on AWS with EC2**](https://github.com/nitheshsivakumar/deploy-a-static-website-on-aws)  
+  *Serving a fast, scalable static website using Amazon EC2.*  
 
 ---
 
