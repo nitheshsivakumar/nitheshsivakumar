@@ -1,60 +1,35 @@
-Hi, I'm Nithesh!
+# Hi there 👋, I'm Nithesh Sivakumar
 
-🚀 Aspiring Cloud Solutions Architect | Cloud Engineer | DevOps Engineer
+Welcome to my GitHub profile! Below are some of the **Cloud, DevOps, and Generative AI** projects I've worked on.
 
-Welcome to my GitHub profile! I'm passionate about cloud technologies, DevOps, and building scalable solutions. Currently pursuing my Master's in Information Technology and Management at UT Dallas, I'm also serving as a Graduate Teaching Assistant for AWS-related courses and as the AWS Cloud Club Captain.
+---
 
-🌟 Certifications
+## 🌐 Cloud Engineering Projects
+- [**Deploy a Scalable Web Application on AWS EKS with Kubernetes**](https://github.com/nitheshsivakumar/dynamic-webapp-eks)
+- [**Automate Dynamic Web App Deployment with Terraform, Docker, Amazon ECR, and ECS**](https://github.com/nitheshsivakumar/terraform-modules)
+- [**Infrastructure as Code: Deploy a Dynamic Website on AWS with CloudFormation**](https://github.com/nitheshsivakumar/cloudformation-dynamic-website)
+- [**Containerized Web App Deployment on AWS with Terraform, Docker, Amazon ECR, and ECS**](https://github.com/nitheshsivakumar/terraform-rentzone-infrastructure-ecs)
+- [**E-commerce Web App Deployment on AWS using Terraform**](https://github.com/nitheshsivakumar/terraform-ecs-project)
+- [**Dockerized Web App Deployment on AWS with Amazon ECR and ECS**](https://github.com/nitheshsivakumar/dynamic-webapp-containerized)
+- [**Deploy a Static Web App on AWS using Docker, Amazon ECR, and ECS**](https://github.com/nitheshsivakumar/static-webapp-docker)
+- [**Deploy a Dynamic Web Application on AWS**](https://github.com/nitheshsivakumar/dynamic-webapp-on-aws)
+- [**Set Up and Deploy a WordPress Website on AWS**](https://github.com/nitheshsivakumar/deploy-a-wordpress-website-on-aws)
+- [**Deploy a Static Website on AWS with S3 and CloudFront**](https://github.com/nitheshsivakumar/deploy-a-static-website-on-aws)
 
-AWS Certified Solutions Architect – Associate (SAA)
+---
 
-AWS Certified Cloud Practitioner (CCP)
+## 🚀 DevOps & CI/CD Pipelines
+- [**CI/CD Pipeline: Automate Web App Deployment on AWS using GitHub Actions**](https://github.com/nitheshsivakumar/github-actions-terraform-ecs-project)
+- [**End-to-End CI/CD Pipeline with Jenkins, Maven, Ansible, Docker, Kubernetes, and DockerHub**](https://github.com/nitheshsivakumar/cicd-pipeline)
 
-Oracle Cloud Infrastructure Foundations Associate
+---
 
-Kubernetes and Cloud Native Associate (KCNA)
+## 🤖 Generative AI Projects
+- [**Serverless E-Learning App with RAG, Knowledge Base, Lambda, and API Gateway**](https://github.com/nitheshsivakumar/elearning-app-rag)
+- [**HR Q/A Application with Retrieval-Augmented Generation (RAG)**](https://github.com/nitheshsivakumar/hr-app-rag)
+- [**Image Generation API using AWS Bedrock, API Gateway, Lambda, and S3**](https://github.com/nitheshsivakumar/image-generation-api)
+- [**AI-Powered Text Summarization with AWS Bedrock, API Gateway, and Lambda**](https://github.com/nitheshsivakumar/text-summarization)
+- [**Chatbot with LLaMA 2, LangChain, and Streamlit for Intelligent Conversations**](https://github.com/nitheshsivakumar/ai-chatbot)
 
-💼 Projects
+---
 
-🚀 Host a Static Website on AWS
-
-Deployed a static website using Amazon S3 and CloudFront for global distribution.
-
-🌐 Host a Dynamic Web App on AWS
-
-Built and deployed a dynamic web application leveraging EC2, RDS, and Load Balancer.
-
-🛒 Deploy a Dynamic E-commerce Website on AWS with Terraform
-
-Infrastructure as Code (IaC) project deploying an e-commerce website using Terraform.
-
-✍️ Deploy a WordPress Website on AWS
-
-Automated deployment of a WordPress website using EC2, RDS, and security best practices.
-
-🚗 Ride Sharing App with AWS Services
-
-A scalable ride-sharing app leveraging:
-
-AWS Services: IAM, Amplify, Cognito, Lambda, API Gateway, DynamoDB
-
-CI/CD: Integrated with GitHub and AWS Amplify for continuous deployment.
-
-🌐 Connect with Me
-
-LinkedIn: linkedin.com/in/nithesh
-
-<!--
-**nitheshsivakumar/nitheshsivakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
