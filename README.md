@@ -39,7 +39,7 @@ Welcome to my GitHub profile! Below are some of the **Cloud, DevOps, and Generat
 
 ## 🚀 DevOps & CI/CD Pipelines
 - [**CI/CD Pipeline: Automate Web App Deployment on AWS using GitHub Actions**](https://github.com/nitheshsivakumar/github-actions-terraform-ecs-project)  
-  *Implementing an automated CI/CD pipeline with GitHub Actions to deploy a web app on AWS.*  
+  *Implementing an automated CI/CD pipeline with GitHub Actions to deploy a web app on AWS. (Currently working on)*  
 
 - [**End-to-End CI/CD Pipeline with Jenkins, Maven, Ansible, Docker, Kubernetes, and DockerHub**](https://github.com/nitheshsivakumar/cicd-pipeline)  
   *Building a full CI/CD pipeline using Jenkins, Ansible, Docker, and Kubernetes for automated deployments.*  
