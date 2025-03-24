@@ -46,7 +46,7 @@ Welcome to my GitHub profile! Below are some of the **Cloud, DevOps, and Generat
 
 ---
 
-## 🤖 Generative AI Projects
+## 🤖 Generative AI Use Cases
 - [**Serverless E-Learning App with RAG, Knowledge Base, Lambda, and API Gateway**](https://github.com/nitheshsivakumar/elearning-app-rag)  
   *A Retrieval-Augmented Generation (RAG) based serverless e-learning app using AWS services.*  
 
