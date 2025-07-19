@@ -4,6 +4,8 @@ Welcome to my GitHub profile! Below are some of the **Cloud, DevOps, and Generat
 
 ---
 
+## Certifications: (https://github.com/nitheshsivakumar/Certifications)
+
 ## 🌐 Cloud Engineering Projects
 - [**Deploy a Scalable Web Application on AWS EKS with Kubernetes**](https://github.com/nitheshsivakumar/dynamic-webapp-eks)  
   *Deploying a containerized web application using Kubernetes on AWS EKS for scalability and resilience.*  
