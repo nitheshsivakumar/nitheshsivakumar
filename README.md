@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Below are some of the **Cloud, DevOps, and Generat
 - [**Containerized Web App Deployment on AWS with Terraform, Docker, Amazon ECR, and ECS**](https://github.com/nitheshsivakumar/terraform-ecs-project)  
   *Deploying a web application on AWS using Terraform for infrastructure automation and ECS for container orchestration.*  
 
-- [**E-commerce Web App Deployment on AWS using Terraform**](https://github.com/nitheshsivakumar/ecommerce-website-terraform)  
+- [**E-commerce Website Deployment on AWS using Terraform**](https://github.com/nitheshsivakumar/ecommerce-website-terraform)  
   *Deploying a dynamic e-commerce website on AWS using Terraform to automate infrastructure setup.*  
 
 - [**Dockerized Web App Deployment on AWS with Amazon ECR and ECS**](https://github.com/nitheshsivakumar/dynamic-webapp-containerized)  
