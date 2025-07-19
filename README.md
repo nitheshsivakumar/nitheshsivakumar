@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Below are some of the **Cloud, DevOps, and Generat
 - [**Deploy a Scalable Web Application on AWS EKS with Kubernetes**](https://github.com/nitheshsivakumar/dynamic-webapp-eks)  
   *Deploying a containerized web application using Kubernetes on AWS EKS for scalability and resilience.*  
 
-- [**Automate Dynamic Web App Deployment with Terraform, Docker, Amazon ECR, and ECS**](https://github.com/nitheshsivakumar/terraform-modules)  
+- [**Automate Dynamic Web App Deployment with Terraform, Docker, Amazon ECR, and ECS**]([https://github.com/nitheshsivakumar/terraform-modules](https://github.com/nitheshsivakumar/terraform-rentzone-infrastructure-ecs/tree/main))  
   *Infrastructure automation using Terraform modules to deploy a Dockerized web app on AWS ECS.*  
 
 - [**Infrastructure as Code: Deploy a Dynamic Website on AWS with CloudFormation**](https://github.com/nitheshsivakumar/cloudformation-dynamic-website)  
