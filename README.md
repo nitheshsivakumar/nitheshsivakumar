@@ -52,9 +52,6 @@ Welcome to my GitHub profile! Below are some of the **Cloud, DevOps, and Generat
 - [**Serverless E-Learning App with RAG, Knowledge Base, Lambda, and API Gateway**](https://github.com/nitheshsivakumar/elearning-app-rag)  
   *A Retrieval-Augmented Generation (RAG) based serverless e-learning app using AWS services.*  
 
-- [**HR Q/A Application with Retrieval-Augmented Generation (RAG)**](https://github.com/nitheshsivakumar/hr-app-rag)  
-  *An HR assistant that answers employee queries using RAG techniques on enterprise knowledge bases.*  
-
 - [**Image Generation API using AWS Bedrock, API Gateway, Lambda, and S3**](https://github.com/nitheshsivakumar/image-generation-api)  
   *A serverless API to generate images using AWS Bedrock and store them in S3.*  
 
